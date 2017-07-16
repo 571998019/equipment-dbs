@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetTool" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:string,name:image;datatype:string" />
+	<infoitem key="UD_Recordsettooldetail" value="name:type_id;datatype:int,name:type_name;datatype:string,name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:int,name:image;datatype:string,name:item;datatype:int" />
+	<infoitem key="UD_Recordsetd" value="name:tool_name;datatype:string,name:tool_code;datatype:string,name:image;datatype:string,name:item;datatype:int,name:type_name;datatype:string" />
+	<infoitem key="UD_Recordsetdts" value="name:tool_code;datatype:string,name:tool_name;datatype:string,name:type_name;datatype:string,name:item;datatype:int,name:image;datatype:string,name:tool_id;datatype:int,name:stores_id;datatype:int,name:stores_name;datatype:string" />
+	<infoitem key="UD_RecordsetDetail" value="name:tool_code;datatype:string,name:tool_name;datatype:string,name:type_name;datatype:string,name:item;datatype:int,name:image;datatype:string,name:tool_id;datatype:int,name:stores_id;datatype:int,name:stores_name;datatype:string,name:type_id;datatype:int" />
+	<infoitem key="UD_RecordsetTools" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:int,name:image;datatype:string,name:item;datatype:int,name:tool_store_id;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_Recordsettool" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:int,name:image;datatype:string,name:item;datatype:int,name:tool_store_id;datatype:int,name:status;datatype:string" />
+</info>

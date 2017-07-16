@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetType" value="name:type_id;datatype:int,name:type_name;datatype:string" />
+	<infoitem key="UD_RecordsetStore" value="name:stores_id;datatype:int,name:stores_name;datatype:string" />
+	<infoitem key="UD_Recordsettype" value="name:type_id;datatype:int,name:type_name;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordsettoola" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:int,name:image;datatype:string,name:item;datatype:int,name:tool_store_id;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_Recordsettools" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:int,name:image;datatype:string,name:item;datatype:int,name:tool_store_id;datatype:int,name:status;datatype:string,name:type_id;datatype:int,name:type_name;datatype:string,name:stores_id;datatype:int,name:stores_name;datatype:string" />
+</info>

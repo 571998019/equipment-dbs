@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetUpdate" value="name:b_id_log;datatype:int,name:b_user_id;datatype:int,name:b_tool_id;datatype:int,name:b_date_borrow;datatype:date,name:status;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:b_id_log;datatype:int,name:b_user_id;datatype:int,name:b_tool_id;datatype:int,name:b_date_borrow;datatype:date,name:status;datatype:string" />
+</info>

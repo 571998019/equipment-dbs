@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:bor_id;datatype:int,name:bor_name;datatype:int,name:bor_tool_code;datatype:int,name:bor_tool_name;datatype:string,name:bor_img;datatype:string,name:bor_status;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:string,name:image;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:id_log;datatype:int,name:name_log;datatype:string,name:student_id_log;datatype:string,name:faculty_log;datatype:string,name:major_log;datatype:string,name:tel_log;datatype:string" />
+</info>

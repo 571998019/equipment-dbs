@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetToolss" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:string,name:image;datatype:string" />
+	<infoitem key="UD_Recordsetb" value="name:id_log;datatype:int,name:name_log;datatype:string,name:student_id_log;datatype:string,name:faculty_log;datatype:string,name:major_log;datatype:string,name:tel_log;datatype:string,name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:int,name:image;datatype:string,name:item;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:int,name:image;datatype:string,name:item;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:id_log;datatype:int,name:name_log;datatype:string,name:student_id_log;datatype:string,name:faculty_log;datatype:string,name:major_log;datatype:string,name:tel_log;datatype:string" />
+	<infoitem key="UD_RecordsetUser" value="name:id_log;datatype:int,name:name_log;datatype:string,name:student_id_log;datatype:string,name:faculty_log;datatype:string,name:major_log;datatype:string,name:tel_log;datatype:string" />
+	<infoitem key="UD_RecordsetTool" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:int,name:image;datatype:string,name:item;datatype:int,name:status;datatype:string" />
+	<infoitem key="UD_RecordsetQ" value="name:b_id_log;datatype:int,name:b_user_id;datatype:int,name:b_tool_id;datatype:int,name:b_date_borrow;datatype:date,name:status;datatype:string" />
+	<infoitem key="UD_Recordsettest" value="name:tool_id;datatype:int,name:b_tool_id;datatype:int" />
+</info>

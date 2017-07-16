@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetMajor" value="name:major_id;datatype:int,name:major_name;datatype:string" />
+</info>

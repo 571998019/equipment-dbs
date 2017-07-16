@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetList" value="name:b_id_log;datatype:int,name:b_user_id;datatype:int,name:b_tool_id;datatype:int,name:b_date_borrow;datatype:date,name:status;datatype:string,name:tool_name;datatype:string,name:tool_code;datatype:string,name:image;datatype:string,name:type_name;datatype:string,name:name_log;datatype:string" />
+</info>

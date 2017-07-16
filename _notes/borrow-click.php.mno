@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:id_log;datatype:int,name:name_log;datatype:string,name:student_id_log;datatype:string,name:faculty_log;datatype:string,name:major_log;datatype:string,name:tel_log;datatype:string" />
+	<infoitem key="UD_tools" value="name:tool_id;datatype:int,name:tool_name;datatype:string,name:tool_code;datatype:string,name:tool_type;datatype:string,name:image;datatype:string" />
+</info>
